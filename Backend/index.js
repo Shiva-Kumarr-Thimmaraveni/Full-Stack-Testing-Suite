@@ -13,7 +13,13 @@ const verifyToken = require('./middlewares/verifyToken')
 
 const JWT_SECRET = process.env.JWT_SECRET
 const JWT_TIMEOUT = process.env.JWT_TIMEOUT
-app.use(cors())
+app.use(
+  cors({
+    origin: 'https://full-stack-testing-suite-i8gbwadal.vercel.app',
+    methods: ['GET', 'POST', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
+  })
+)
 app.use(express.json())
 app.use(bodyParser.json())
 
