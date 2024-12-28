@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shiva-Kumarr-Thimmaraveni/Full-Stack-Testing-Suite">
-    <img src="images/ReBirth_with_bg.png" alt="Logo" width="80" height="80">
+    <img src="images/ReBirth_without_bg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">🎓 Adaptive Quiz Platform: E2E Full Stack Testing Suite</h3>
@@ -59,8 +59,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project (Google OAuth Login / Sign Up)
-
+## About The Project
+## (Google OAuth Login / Sign Up)
 [![Product Name Screen Shot][product-screenshot]](https://www.linkedin.com/in/shiva-kumarr-thimmaraveni/)
 
 🚀 **An innovative MERN stack-based online quiz platform** that adapts to users' performance and provides personalized dashboards, reports, and improvement suggestions.
