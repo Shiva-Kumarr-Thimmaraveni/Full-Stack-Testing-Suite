@@ -27,12 +27,14 @@
     ·
     <a href="https://github.com/Shiva-Kumarr-Thimmaraveni/Full-Stack-Testing-Suite/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
-</div>
 
-<h2>Demo Video</h2>
+  <h2>Demo Video</h2>
 <a href="https://youtu.be/4Q7N5yPYUUw" target="_blank">
   <img src="https://img.youtube.com/vi/4Q7N5yPYUUw/maxresdefault.jpg" alt="Watch the video" width="600" height="400" style="display:block; margin:0 auto; position:relative;">
 </a>
+
+</div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
