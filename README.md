@@ -209,7 +209,7 @@ _For more examples, please refer to the [Documentation](https://github.com/Shiva
 [linkedin-url]: https://www.linkedin.com/in/shiva-kumarr-thimmaraveni/
 
 [product-screenshot]: images/GoogleSignIn.png
-[test-cases-screen-shot]: images/testCases.png
+[test-cases-screen-shot]: images/Screenshot (11671).png
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
