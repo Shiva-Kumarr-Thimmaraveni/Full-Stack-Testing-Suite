@@ -30,7 +30,7 @@
 
   <h2>Demo Video</h2>
 <a href="https://youtu.be/4Q7N5yPYUUw" target="_blank">
-  <img src="https://img.youtube.com/vi/4Q7N5yPYUUw/maxresdefault.jpg" alt="Watch the video" width="600" height="400" style="display:block; margin:0 auto; position:relative;">
+  <img src="https://img.youtube.com/vi/4Q7N5yPYUUw/maxresdefault.jpg" alt="Watch the video" width="700" height="400" style="display:block; margin:0 auto; position:relative;">
 </a>
 
 </div>
