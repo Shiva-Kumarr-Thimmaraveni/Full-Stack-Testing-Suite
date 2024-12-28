@@ -1,0 +1,24 @@
+{
+  "name": "full_stack_testing_suite",
+  "version": "1.0.0",
+  "description": "Full Stack application Development using React JS, Mongo DB, Express JS, Tailwind CSS, NODE JS, Google OAuth etc..",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Thimmaraveni Shiva Kumarr",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "cloudinary": "^1.21.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "googleapis": "^144.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  }
+}
