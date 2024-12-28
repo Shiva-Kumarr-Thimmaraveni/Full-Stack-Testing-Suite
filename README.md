@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shiva-Kumarr-Thimmaraveni/Full-Stack-Testing-Suite">
-    <img src="images/ReBirth_with_bg.png" alt="Logo" width="220" height="200">
+    <img src="images/ReBirth_with_bg.png" alt="Logo" width="240" height="200">
   </a>
 
   <h3 align="center">🎓 Adaptive Quiz Platform: E2E Full Stack Testing Suite</h3>
