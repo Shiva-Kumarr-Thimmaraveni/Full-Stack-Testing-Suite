@@ -112,6 +112,7 @@ Build a login/signup platform with a **personalized dashboard** and an **adaptiv
    ```
 
 ### Prerequisites
+## Installation
 
 **Install Dependencies**  
    ```bash
